@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Laxmi Poudel 
 
-You can use the [editor on GitHub](https://github.com/lpoudel55/lpoudel55.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a graduate research assistant in Mechanical Engineering department at University of Arkansas and a PhD candidate. My research focus is swarm manufacturing, reinforcement learning, and mathamatical programming. I am particularly interested in application of reinforcement learning in multi-robot applications. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.  Bachelors of Science in Engineering, December 2014, University of Arkansas 
+2.  Philosophy of Doctorate, December 2021
 
-```markdown
-Syntax highlighted code block
+# Research 
 
-# Header 1
-## Header 2
-### Header 3
+1.  Swarm Manufacturing
+2.  Reinforcement Learning
 
-- Bulleted
-- List
+# Hobbies
+1. Hiking
+2. Running
+3. Soccer
 
-1. Numbered
-2. List
+# Acheivements
+1. 2020 ASME IDETC Hackathon second place
+2. 2020 ASME IDETC Memester Extraordinaire 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lpoudel55/lpoudel55.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

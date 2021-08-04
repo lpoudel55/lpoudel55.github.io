@@ -174,20 +174,18 @@
                     <h3>Development of Sloped-Surface Chunking Strategy</h3>
                     <p>In order to allow multi-robot printing, a part has to be divided into multiple chunks. These chunks can then be assigned to the individual robots for printing. It needs to be made sure that such chunking allows multi-robot printing simultaneously. Sloped-surface chunking strategy divides a chunk using sloped plane both along X as well as Y-direction.</p>
                     <img src="assets/img/chunking.jpg" alt="Sloped-Surface Chunking" width="500" height="400"> 
-                    <video width="500" height="500" controls>
-                      <source src="robots_16.avi" type="assets/img">
-                      <source src="robots_16.ogg" type="video/ogg">
-                    Your browser does not support the video tag.
-                    </video> 
+                    <video class="tab" controls>Your browser does not support the &lt;video&gt; tag.
+                    <source src="/assets/img/robots_16.avi"/>
+                    </video>
 
                     <h3>Computational Framework for Multi-robot Scheduling</h3>
                     <p>Planning for multi-robot 3D printing requires collision-freee schedule generation. Such collision free printing requires consideration of dynamic manufacturing constraints that are changing both in space and time as new meaterials are printed continuously by different robots. I developed algorithm that can explore large design space to generate print schedules for multiple robots, check the validity of the generated print schedules (whether or not the schedule will result in collision free printing), and evaluate the generated print schedules.</p>
-                    <img src="assets/img/fig35.jpg" alt="Schedule Reprsentation" width="500" height="400">   
+                    <img src="assets/img/fig35.png" alt="Schedule Reprsentation" width="500" height="400">   
                     </object>
 
                     <h3>Cooperation between the robots at layer-level printing</h3>
                     <p>Although discretizing a STL file into multiple chunks and assigning the chunks to the individual robots allows cooperation between the robots at chunk-level while printing, such cooperation can also take place at layer-level. The printing robots can cooperate with each other while printing the individual layers of the chunks. An object can be discretized into multiple chunks using voronoi decomposition. The cooperating robots then can cooperate while printing the individual layers of the adjacent voronoi sites. Such cooperation provides closer control but also demands careful planning. </p>
-                    <img src="assets/img/fig81.jpg" alt="Voronoi Decomposition" width="500" height="400">   
+                    <img src="assets/img/fig81.png" alt="Voronoi Decomposition" width="500" height="400">   
                     </object>
                     
                 </div>
